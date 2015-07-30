@@ -1,0 +1,29 @@
+body {
+	background-color: #80d4ea;
+	margin: 0;
+	padding: 0;
+}
+
+#clock {
+	height: 100%;
+	width: 100%;
+	margin: auto;
+	position: absolute;
+	top: 0; left: 0; bottom: 0; right: 0;
+	padding-top: 40%;
+	font-family: 'Lobster';
+	text-align: center;
+	text-shadow: 4px 4px 4px #aaa;
+	color: white;
+	font-size: 100px;
+}
+
+#header {
+	width: 100%;
+	padding-top: 10%;
+	font-family: 'Lobster';
+	text-align: center;
+	text-shadow: 4px 4px 4px #aaa;
+	font-size: 100px;
+	color: white;
+}
